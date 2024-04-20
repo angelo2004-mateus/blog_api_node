@@ -1,0 +1,8 @@
+{
+    "name_database": "blog_database",
+    "user_database": "root",
+    "password_database": "",
+    "host": "localhost",
+    "dialect": "mysql",
+    "port": "3000"
+}
